@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vertex-ai-392810",
+  "private_key_id": "70277e6a82a105e70aa8fb8620028a35900ebe36",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzZ6ENKutlF2ss\nDIHJYtzots3M2C5+22GJjmPmjsJQW/y2OycOX0o1bcJxuUn+3zjQvyK5jGuO47g7\nR6dW2Zf7H+oNWLGuLu9Q8YqRYwqHQMg7JcOKqCFi68HqEXq317MyjOaIe54/DdOf\nofzmyUjyppv30e5m6Wb5vN4MF8RfMOB+gAHWvl27KmpvXNM2aVjCCmolT4A30tZ6\nqjWTOscqeRhj+XhPR1a14v6s4ckHbHrnbNPVdFuWxdlKrV3HBlq9RPc8feXqzs+3\nIM+2AQXI971vUHssWi2yg+/9GBaLBHFpTaUYSDxPBSbyUt7J/LulwuG2Bc0LvzNa\n7kSnbtLBAgMBAAECggEAAWEorGBNnL8AMAbNQrACGBStjXJNOau4E6zfrh4DdtVI\nBj7s+cp7reB/PnCDlftqcAnR/wlfjT9XlO9VupP135uj8EQARqhU9RpwKA9DvUtJ\n18MJE9bRPgQZFJK/DsXXrE1yu0C3pi9ApQ7Dp3g2Nf/mTz1doMURd88mJi42KUwZ\n5lwfGVDqrBZykyhRnrcXWYaksmW60FRhBJxW1itZ0Qookfk8QOIW/WLFJvT/d+q1\npGjQPFFUjhGKw/QOnF5h6M4t6v5NYqMirLe/0rHodQcN9UCoVjSdIP2rQtBkOr8L\n4RyJHEOV8PrV/ugrK1r4RvfgbJCihgEnpB+N8nDUqQKBgQDamAmAZu7UiTfi4i+H\nP0eCrSOgSp58OFXRy3Lvh+pEUQw0GoUHusDb/2l1AIuhOo8ATom0GwgqB8NuMYqF\n3ggHd+p7DoekGIIeU+z9IILq/vrVpilsULiLS9t9wwJ69Ss/iSDgIkR6EtzMvTsT\nGFS5TmUGiCeCAWAc+EcGxiDh5QKBgQDSGtTtsvh94D2odg+UTwx3tHFirtDMikxU\nE973VEkYkK6mMDXenPyfuVWQW/ghS80Uiw2GKcfWicuq8DEXTkjxjmcgvODQUN0k\nm2cGQhe5LJ4AuAxCJmqEQ21Oc0TbcA91Pt/Ak1YXHwE4nOwR0B8fW0SKGW8cWOgk\nqlmnCXbPrQKBgCrgfaShDCHGVJ79TONThzxbp8xONq4ZAsRnCsFvQIVr/F/P/94X\nRLMic1YO6FSUvu4JebtJPh24bh4UO56sgZitbeH7ZKHMaOF4BtlT4jokD6GOuTtU\nzg4MsB4H/VmO84+/3yH3tsTXJFZIm+jP8fZzKR/R3yYCDQ9Bp/TtMg/9AoGAWrHe\nbGUvQxcDRq7/9qNQ3HN15oVT+JdSb5DMVLN7gjEiUvbIqjnWCxSzzMcGi0jvVAja\nY6mxa/i7hCR+7HKMpkk0VztxSDs/2seCZ38sQnDyG5lXIU739/QrQQwdEySCZ7gm\nWji/lud5XXjPprjSVnTNV1e3UONIAlvOq344XVkCgYA1BU6gZ9YhtOnGrX+TnsVo\ntbKiwUauPZYS8ikl1sDmD63gpWzPS98M+ng6jnGTcWCmRqUb4QU6D4fHGeO3I4FM\nA91XiTSWYmDPothugAuOJQSlkq6LUyMs8o1GfOc/CcragMK/1rUQg9IvPz59tMOP\nopuKupaN0I3+YQjg294VCg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-sa@vertex-ai-392810.iam.gserviceaccount.com",
+  "client_id": "118257373836999143143",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-sa%40vertex-ai-392810.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
